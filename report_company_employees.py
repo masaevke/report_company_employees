@@ -2,9 +2,7 @@ import urllib.request
 import csv
 from collections import defaultdict
 
-
 CORP_SUMMARY = []
-
 
 def load_csv_to_global():
     """
